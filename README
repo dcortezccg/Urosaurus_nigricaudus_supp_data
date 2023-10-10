@@ -1,1 +1,12 @@
 README
+
+The folder DNA_coverage contains the processed data to plot the genomic read coverage (RPKM) for scaffolds 1 to 16.
+
+The folder RNAseq_U_nigricaudus_coverage contains the processed data to plot the Males 1-2 and Females 1-2 RNAseq read coverage (RPKM) for scaffolds 1 to 16. Data come from tails of U_nigricaudus.
+
+The folder RNAseq_U_bicarinatus_coverage contains the processed data to plot the tissue and scaffolds 1 to 16 RNAseq read coverage (RPKM). Data come from liver, kidney, heart, and brain U_bicarinatus.
+
+The folder scripts contains the R scripts to plot the data.
+
+The folder Genes_Xchr contains the gene identities for X-linked genes in U_nigricaudus.
+
