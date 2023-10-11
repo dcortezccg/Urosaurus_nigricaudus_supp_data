@@ -10,3 +10,10 @@ The folder scripts contains the R scripts to plot the data.
 
 The folder Genes_Xchr contains the gene identities for X-linked genes in U_nigricaudus.
 
+The folder Repeats_files contains the information to reproduce the analysis of repeated elements.
+
+The folder SyntenyGenespace_files contains the datasets to reproduce the Genespace (genomic alignment) analysis and figure.
+
+The folder SyntenyCircos_files ontains the datasets to reproduce the Circos (paired genomic alignments) analysis and figures.
+
+The folder scripts_coverage contains the R scripts to run the DNAseq and RNAseq coverage analyzes.
